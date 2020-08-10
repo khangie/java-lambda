@@ -1,7 +1,7 @@
 package io.javabrains.main;
 
-import io.javabrains.Greeting;
-import io.javabrains.HelloWorldGreeting;
+import io.javabrains.model.HelloWorldGreeting;
+import io.javabrains.model.Greeting;
 
 public class Greeter {
 
