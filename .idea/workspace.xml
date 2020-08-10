@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbac719f-18a5-484a-b10c-f338c97c85d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/javabrains/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/javabrains/Greeter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TypeInferenceExample">
     <configuration name="Greeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.Greeter" />
       <module name="java-lambda" />
@@ -47,8 +45,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypeInferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.TypeInferenceExample" />
+      <module name="java-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeInferenceExample" />
         <item itemvalue="Application.Greeter" />
       </list>
     </recent_temporary>
@@ -83,22 +95,22 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="537" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1463.783@0.0.1463.783" timestamp="1596691191504" />
-    <state width="1420" height="197" key="GridCell.Tab.0.bottom" timestamp="1597098274715">
+    <state width="1420" height="197" key="GridCell.Tab.0.bottom" timestamp="1597099166112">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1420" height="197" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1597098274715" />
-    <state width="1420" height="197" key="GridCell.Tab.0.center" timestamp="1597098274714">
+    <state width="1420" height="197" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1597099166112" />
+    <state width="1420" height="197" key="GridCell.Tab.0.center" timestamp="1597099166112">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1420" height="197" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1597098274714" />
-    <state width="1420" height="197" key="GridCell.Tab.0.left" timestamp="1597098274714">
+    <state width="1420" height="197" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1597099166112" />
+    <state width="1420" height="197" key="GridCell.Tab.0.left" timestamp="1597099166112">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1420" height="197" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1597098274714" />
-    <state width="1420" height="197" key="GridCell.Tab.0.right" timestamp="1597098274714">
+    <state width="1420" height="197" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1597099166112" />
+    <state width="1420" height="197" key="GridCell.Tab.0.right" timestamp="1597099166112">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1420" height="197" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1597098274714" />
+    <state width="1420" height="197" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1597099166112" />
     <state x="428" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1597082975859">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
