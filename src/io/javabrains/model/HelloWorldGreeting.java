@@ -1,4 +1,4 @@
-package io.javabrains;
+package io.javabrains.model;
 
 public class HelloWorldGreeting implements Greeting {
 

@@ -1,4 +1,4 @@
-package io.javabrains;
+package io.javabrains.main;
 
 public class TypeInferenceExample {
 

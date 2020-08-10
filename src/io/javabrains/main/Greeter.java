@@ -1,4 +1,7 @@
-package io.javabrains;
+package io.javabrains.main;
+
+import io.javabrains.Greeting;
+import io.javabrains.HelloWorldGreeting;
 
 public class Greeter {
 
